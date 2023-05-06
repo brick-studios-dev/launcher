@@ -21,7 +21,6 @@ SOFTWARE.
 */
 
 import React from 'react';
-import './settings.css';
 import { ModalConductor } from "../modal/Modal";
 
 class SettingsWrapper extends React.Component {

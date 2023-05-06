@@ -1,6 +1,4 @@
 import React from 'react';
-import "./sidebar.css";
-import "./content.css";
 import logo from '../static/LauncherNoText.png'
 
 import { Title, ImageSquare } from '../layout/Generic'

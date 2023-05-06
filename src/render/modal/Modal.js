@@ -1,5 +1,4 @@
 import React from 'react';
-import './modal.css';
 import App from "../core/App";
 
 class ModalConductor extends React.Component {

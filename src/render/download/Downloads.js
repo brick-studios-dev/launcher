@@ -22,7 +22,6 @@ SOFTWARE.
 
 import React from 'react';
 import {} from '../layout/Generic';
-import './downloads.css';
 
 class Downloads extends React.Component {
     constructor(props) {

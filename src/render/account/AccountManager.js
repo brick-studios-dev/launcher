@@ -21,8 +21,6 @@ SOFTWARE.
 */
 
 import React from 'react';
-import './accounts.css';
-import './status.css';
 
 const HEAD_BASE_URL = 'https://mc-heads.net/avatar/';
 

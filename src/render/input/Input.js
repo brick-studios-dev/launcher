@@ -21,7 +21,6 @@ SOFTWARE.
 */
 
 import React from 'react';
-import './input.css';
 
 class Checkbox extends React.Component {
     constructor(props) {

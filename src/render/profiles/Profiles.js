@@ -1,7 +1,6 @@
 import React from 'react';
 import { ContextMenu, ContextMenuTrigger, MenuItem } from 'react-contextmenu';
 import { ModalConductor } from '../modal/Modal';
-import './profiles.css';
 import ReactTooltip from "react-tooltip";
 
 class Profiles extends React.Component {

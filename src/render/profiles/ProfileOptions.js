@@ -21,9 +21,6 @@ SOFTWARE.
 */
 
 import React from 'react';
-import './options.css';
-import './screenshots.css';
-import './mods.css';
 import { ModalPageWrapper, ModalPage } from '../layout/ModalPages';
 import { ContextMenu, ContextMenuTrigger, MenuItem } from 'react-contextmenu';
 import { SwitchV2, Button, StandaloneCheckbox, TextField } from '../input/Input';

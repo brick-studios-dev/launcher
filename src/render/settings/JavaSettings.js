@@ -22,7 +22,6 @@ SOFTWARE.
 
 import React from 'react';
 import { Button } from '../input/Input';
-import './java.css';
 
 class JavaSettings extends React.Component {
     constructor(props) {
